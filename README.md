@@ -10,9 +10,9 @@
 
 <hr>
 <pre>
-💻 I am Java backend and Database developer.
+💻 I am Java backend and Database developer.Student in TUIT
 📝 I have a strong interest in Java backend development and Cloud Computing
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Learning about Computer Science
 🌟 Main languages: Java, C++
 </pre>
 <hr>
@@ -25,6 +25,40 @@
 [![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AstroNythic)
 
 </div>
+
+
+## 📘 My top open source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 My Projects</b></td>
+<!--       <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/MuhammadaminAR/TravelAppProject"><b>Travel-app</b></a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/MuhammadaminAR/EcommerceProSpringSec"><b>Ecommerce-MarketPlace</b></a></td>
+    </tr>
+	   <tr>
+      <td><a href="https://github.com/MuhammadaminAR/TaskManagerProject"><b>TaskManager</b></a></td>
+    </tr>
+	   <tr>
+      <td><a href="https://github.com/MuhammadaminAR/MarketPlace"><b>MarketPlace-JSP</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MuhammadaminAR/CinemaProject"><b>Cinema-with-JSP</b></a></td>
+    </tr> 
+	  <tr>
+      <td><a href="https://github.com/MuhammadaminAR/LearningCenterPR"><b>LearningCenter-with-JSP</b></a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 ## 🛠️ My Skills
 
@@ -99,39 +133,6 @@
 
 
 </p>
-
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 My Projects</b></td>
-<!--       <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td> -->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/MuhammadaminAR/TravelAppProject"><b>Travel-app</b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/MuhammadaminAR/EcommerceProSpringSec"><b>Ecommerce-MarketPlace</b></a></td>
-    </tr>
-	   <tr>
-      <td><a href="https://github.com/MuhammadaminAR/TaskManagerProject"><b>TaskManager</b></a></td>
-    </tr>
-	   <tr>
-      <td><a href="https://github.com/MuhammadaminAR/MarketPlace"><b>MarketPlace-JSP</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MuhammadaminAR/CinemaProject"><b>Cinema-with-JSP</b></a></td>
-    </tr> 
-	  <tr>
-      <td><a href="https://github.com/MuhammadaminAR/LearningCenterPR"><b>LearningCenter-with-JSP</b></a></td>
-    </tr>
-  </tbody>
-</table>
-<br>
 
 ### :fire: My Github Stats :
 

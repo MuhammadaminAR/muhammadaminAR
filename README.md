@@ -105,26 +105,29 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Project</b></td>
+      <td><b>📘 My Projects</b></td>
 <!--       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td> -->
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/elshod1018/quizlet-app"><b>Quizlet-app</b></a></td>
+      <td><a href="https://github.com/MuhammadaminAR/TravelAppProject"><b>Travel-app</b></a></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/elshod1018/jakartaee_online_library"><b>jakartaee_online_library</b></a></td>
+      <td><a href="https://github.com/MuhammadaminAR/EcommerceProSpringSec"><b>Ecommerce-MarketPlace</b></a></td>
+    </tr>
+	   <tr>
+      <td><a href="https://github.com/MuhammadaminAR/TaskManagerProject"><b>TaskManager</b></a></td>
+    </tr>
+	   <tr>
+      <td><a href="https://github.com/MuhammadaminAR/MarketPlace"><b>MarketPlace-JSP</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/elshod1018/test_system_bot"><b>test-system-bot</b></a></td>
+      <td><a href="https://github.com/MuhammadaminAR/CinemaProject"><b>Cinema-with-JSP</b></a></td>
     </tr> 
 	  <tr>
-      <td><a href="https://github.com/elshod1018/user_crud_postgresql"><b>user_crud with postgresql</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/elshod1018/faker_bot"><b>faker_bot</b></a></td>
+      <td><a href="https://github.com/MuhammadaminAR/LearningCenterPR"><b>LearningCenter-with-JSP</b></a></td>
     </tr>
   </tbody>
 </table>
@@ -132,27 +135,27 @@
 
 ### :fire: My Github Stats :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elshod1018&stroke=EB5454" alt="Elshod Nuriddinov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadaminAR&stroke=EB5454" alt="Muhammadamin Abdullayev" /></p>
 
 
    <p align="center">
-          <a href="https://github.com/elshod1018/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=elshod1018&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=elshod1018&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/MuhammadaminAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammadaminAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadaminAR&theme=gruvbox&hide_border=true" />
           </a>
        </p>
 
 <p align="center">
-        <a href="https://github.com/elshod1018/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshod1018&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <a href="https://github.com/MuhammadaminAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadaminAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
 
  <p align="center">
-          <a href="https://github.com/elshod1018/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elshod1018&theme=gruvbox&layout=compact&hide_border=true"
+          <a href="https://github.com/MuhammadaminAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadaminAR&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elshod1018&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadaminAR&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>

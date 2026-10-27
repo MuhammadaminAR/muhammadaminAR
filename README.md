@@ -10,7 +10,7 @@
 
 <hr>
 <pre>
-💻 I am Java backend and Database developer.Student in TUIT
+💻 I am Java backend and Database developer. e-commerce gradauted student in TUIT.
 📝 I have a strong interest in Java backend development and Cloud Computing
 🌱 Learning about Computer Science
 🌟 Main languages: Java, C++

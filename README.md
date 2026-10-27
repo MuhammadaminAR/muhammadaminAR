@@ -45,16 +45,16 @@
       <td><a href="https://github.com/MuhammadaminAR/EcommerceProSpringSec"><b>Ecommerce-MarketPlace</b></a></td>
     </tr>
 	   <tr>
-      <td><a href="https://github.com/MuhammadaminAR/TaskManagerProject"><b>TaskManager</b></a></td>
+      <td><a href="https://github.com/MuhammadaminAR/mazmun-web-site"><b>MazmunEdu website</b></a></td>
     </tr>
 	   <tr>
-      <td><a href="https://github.com/MuhammadaminAR/MarketPlace"><b>MarketPlace-JSP</b></a></td>
+      <td><a href="https://github.com/MuhammadaminAR/CheckSubscribeBot"><b>Telegram Bot</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/MuhammadaminAR/CinemaProject"><b>Cinema-with-JSP</b></a></td>
     </tr> 
 	  <tr>
-      <td><a href="https://github.com/MuhammadaminAR/LearningCenterPR"><b>LearningCenter-with-JSP</b></a></td>
+      <td><a href="https://github.com/MuhammadaminAR/ZaminAI"><b>ZaminAI</b></a></td>
     </tr>
   </tbody>
 </table>

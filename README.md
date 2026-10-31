@@ -110,57 +110,46 @@ Bachelor's Degree — E-Commerce
   <tr>
     <td width="50%" valign="top">
       <h3>🌱 <a href="https://github.com/MuhammadaminAR/ZaminAI">ZaminAI</a></h3>
-      <strong>Agricultural Decision-Support Platform</strong>
+      <p><strong>Agricultural decision-support platform</strong></p>
+      <p>A production application for Uzbekistan combining soil-data exploration, preliminary crop-suitability analysis, AI-assisted explanations, and farm-economics estimates.</p>
       <p>
-        A production application for Uzbekistan combining soil-data exploration, preliminary crop-suitability analysis, AI-assisted agronomic explanations, and farm-economics estimates.
+        <a href="https://zaminai.tech"><img src="https://img.shields.io/badge/Live_Application-168A70?style=flat-square&logo=googlechrome&logoColor=white" alt="Live application" /></a>
+        <a href="https://github.com/MuhammadaminAR/ZaminAI"><img src="https://img.shields.io/badge/Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
       </p>
-      <a href="https://zaminai.tech">Live Application</a>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/MuhammadaminAR/ZaminAI">Source Code</a>
-      <p><sub>AgriTech · Geospatial Data · Farm Economics</sub></p>
+      <sub>Focus: AgriTech · Geospatial data · Farm economics</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/MuhammadaminAR/mazmun-web-site">Mazmun Edu</a></h3>
-      <strong>Educational Consulting Website</strong>
+      <p><strong>Educational consulting website</strong></p>
+      <p>Website development work for Mazmun Edu, including backend and frontend implementation, deployment, and technical improvements.</p>
       <p>
-        Website development work involving backend and frontend implementation, deployment, and technical improvements.
+        <a href="https://mazmunedu.uz"><img src="https://img.shields.io/badge/Live_Website-168A70?style=flat-square&logo=googlechrome&logoColor=white" alt="Live website" /></a>
+        <a href="https://github.com/MuhammadaminAR/mazmun-web-site"><img src="https://img.shields.io/badge/Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
       </p>
-      <a href="https://mazmunedu.uz">Live Website</a>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/MuhammadaminAR/mazmun-web-site">Source Code</a>
-      <p><sub>Web Development · Deployment</sub></p>
+      <sub>Focus: Web development · Deployment</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/MuhammadaminAR/CheckSubscribeBot">CheckSubscribeBot</a></h3>
-      <strong>Telegram Bot Automation</strong>
-      <p>
-        A Java Telegram bot for checking channel-subscription status and supporting subscription-based access workflows.
-      </p>
-      <a href="https://github.com/MuhammadaminAR/CheckSubscribeBot">Explore Repository →</a>
-      <p><sub>Java · Telegram Bot API</sub></p>
+      <p><strong>Telegram bot automation</strong></p>
+      <p>A Java Telegram bot project for checking channel-subscription status and supporting subscription-based access workflows.</p>
+      <p><a href="https://github.com/MuhammadaminAR/CheckSubscribeBot"><img src="https://img.shields.io/badge/Explore_Repository-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore repository" /></a></p>
+      <sub>Focus: Java · Telegram Bot API</sub>
     </td>
     <td width="50%" valign="top">
       <h3>✈️ <a href="https://github.com/MuhammadaminAR/TravelAppProject">TravelAppProject</a></h3>
-      <strong>Java Web Application</strong>
-      <p>
-        A travel-focused Java application demonstrating backend development and application structure.
-      </p>
-      <a href="https://github.com/MuhammadaminAR/TravelAppProject">Explore Repository →</a>
-      <p><sub>Java · Web Application Development</sub></p>
+      <p><strong>Java web application</strong></p>
+      <p>A Java-based travel application demonstrating backend development and application structure.</p>
+      <p><a href="https://github.com/MuhammadaminAR/TravelAppProject"><img src="https://img.shields.io/badge/Explore_Repository-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore repository" /></a></p>
+      <sub>Focus: Java · Web application development</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/MuhammadaminAR?tab=repositories">
-    <strong>Explore All Public Repositories →</strong>
-  </a>
+  <a href="https://github.com/MuhammadaminAR?tab=repositories"><strong>Explore all public repositories →</strong></a>
 </p>
-
----
-
 ## Areas of Interest
 
 - Backend Engineering and Scalable Software Systems

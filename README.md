@@ -150,7 +150,7 @@ Bachelor's Degree — E-Commerce
 <p align="center">
   <a href="https://github.com/MuhammadaminAR?tab=repositories"><strong>Explore all public repositories →</strong></a>
 </p>
-## Areas of Interest
+**Areas of Interest**
 
 - Backend Engineering and Scalable Software Systems
 - Digital Economy and E-Commerce

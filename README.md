@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img
     alt="Muhammadamin Abdullayev — Technology, Business and Innovation"
     width="88%"
   />

@@ -1,10 +1,3 @@
-
-<p align="center">
-    alt="Muhammadamin Abdullayev — Technology, Business and Innovation"
-    width="88%"
-  />
-</p>
-
 <h1 align="center">Muhammadamin Abdullayev</h1>
 
 <p align="center">

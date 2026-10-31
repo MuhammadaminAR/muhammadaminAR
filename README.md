@@ -123,7 +123,6 @@ Bachelor's Degree — E-Commerce
       <p><strong>Educational consulting website</strong></p>
       <p>Website development work for Mazmun Edu, including backend and frontend implementation, deployment, and technical improvements.</p>
       <p>
-        <a href="https://mazmunedu.uz"><img src="https://img.shields.io/badge/Live_Website-168A70?style=flat-square&logo=googlechrome&logoColor=white" alt="Live website" /></a>
         <a href="https://github.com/MuhammadaminAR/mazmun-web-site"><img src="https://img.shields.io/badge/Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
       </p>
       <sub>Focus: Web development · Deployment</sub>

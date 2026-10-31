@@ -1,6 +1,10 @@
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Mukhammadamin Abdullaev — Software Developer | E-Commerce Graduate" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/MuhammadaminAR/muhammadaminAR/main/profile-banner.png"
+    alt="Muhammadamin Abdullayev — Software Developer | E-Commerce Graduate"
+    width="100%"
+  />
 </p>
 
 <p align="center">

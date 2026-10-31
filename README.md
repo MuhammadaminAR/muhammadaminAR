@@ -1,7 +1,6 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/MuhammadaminAR/muhammadaminAR/main/profile-banner.png"
     alt="Muhammadamin Abdullayev — Technology, Business and Innovation"
     width="88%"
   />

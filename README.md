@@ -1,171 +1,152 @@
-<h1 align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
-</h1>
-
-<div align="center"><img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/> </div>
-
-<br>
-
-### 📖 About me
-
-<hr>
-<pre>
-💻 I am Java backend and Database developer. e-commerce gradauted student in TUIT.
-📝 I have a strong interest in Java backend development and Cloud Computing
-🌱 Learning about Computer Science
-🌟 Main languages: Java, C++
-</pre>
-<hr>
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-amin-abdullayev-391b61278/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AstroNythic)
-
-</div>
-
-
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 My Projects</b></td>
-<!--       <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td> -->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/MuhammadaminAR/TravelAppProject"><b>Travel-app</b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/MuhammadaminAR/EcommerceProSpringSec"><b>Ecommerce-MarketPlace</b></a></td>
-    </tr>
-	   <tr>
-      <td><a href="https://github.com/MuhammadaminAR/mazmun-web-site"><b>MazmunEdu website</b></a></td>
-    </tr>
-	   <tr>
-      <td><a href="https://github.com/MuhammadaminAR/CheckSubscribeBot"><b>Telegram Bot</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MuhammadaminAR/CinemaProject"><b>Cinema-with-JSP</b></a></td>
-    </tr> 
-	  <tr>
-      <td><a href="https://github.com/MuhammadaminAR/ZaminAI"><b>ZaminAI</b></a></td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
-&emsp;
-
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Frameworks
-<p>
-	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-<!-- 	<img src="http://img.shields.io/badge/-Project%20Reactor-6db33f?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp;&nbsp; -->
-<!-- 	<img src="" />&nbsp;&nbsp; -->
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p>
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
-<!-- 	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp; -->
-	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
- </p>
-
-### 👉 Software & Tools
- <p>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-
-<!-- <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;-->
-<img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GraphQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OpenApi-6BA539?&style=for-the-badge&logo=openapi-initiative&logoColor=F7F7F7" />&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-
-
-</p>
-
-
-### 👉 Software & Tools
-
- <p>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-
-
-</p>
-
-### :fire: My Github Stats :
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadaminAR&stroke=EB5454" alt="Muhammadamin Abdullayev" /></p>
-
-
-   <p align="center">
-          <a href="https://github.com/MuhammadaminAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammadaminAR&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadaminAR&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
 
 <p align="center">
-        <a href="https://github.com/MuhammadaminAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadaminAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
-      </p>
+  <h1 align="center">Mukhammadamin Abdullaev</h1>
+  <h3 align="center">
+    Software Developer | E-Commerce Graduate | Digital Innovation
+  </h3>
+  <p align="center">
+    I build practical digital products and explore how software,
+    data, and economic thinking can solve real-world problems.
+  </p>
+</p>
 
- <p align="center">
-          <a href="https://github.com/MuhammadaminAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadaminAR&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadaminAR&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadaminar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/muhammadaminbro">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuhammadaminAR">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
+---
 
+## About Me
 
-<div>
-     <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
-</h1>
-</div>
+I'm a software developer with an academic background in E-Commerce, interested in the intersection of technology, business, and economics.
+
+My work primarily focuses on backend development, database-driven applications, and building practical digital solutions. I enjoy turning ideas into functional products while exploring how technology and data can improve business processes and decision-making.
+
+- 🎓 Bachelor's degree in **E-Commerce** — Tashkent University of Information Technologies named after Muhammad al-Khwarizmi.
+- 📊 GPA: **4.17 / 5.00**
+- 🌍 IELTS: **6.5**
+- 💻 Main programming language: **Java**
+- 🚀 Interested in software engineering, digital business, and data-driven innovation.
+
+## Education
+
+**Tashkent University of Information Technologies named after Muhammad al-Khwarizmi**
+
+Bachelor's Degree in E-Commerce
+
+GPA: 4.17 / 5.00
+
+IELTS Academic: 6.5
+
+## Technical Stack
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
+</p>
+
+### Databases and Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+</p>
+
+## Selected Projects
+
+### 🌱 [ZaminAI](https://github.com/MuhammadaminAR/ZaminAI)
+**Agricultural Decision-Support Platform**
+
+A production web application designed for Uzbekistan that combines soil-data exploration, preliminary crop suitability analysis, AI-assisted agronomic explanations, and farm economics estimation.
+
+- Soil data integration and geospatial exploration.
+- Preliminary crop suitability assessment.
+- Farm revenue and cost estimation.
+- AI-assisted explanations.
+- Historical climate data for selected pilot locations.
+
+🌐 [Live Application](https://zaminai.tech) · 💻 [Source Code](https://github.com/MuhammadaminAR/ZaminAI)
+
+### 🌐 [Mazmun Edu Website](https://github.com/MuhammadaminAR/mazmun-web-site)
+**Educational Consulting Website**
+
+A web project developed for Mazmun Edu, involving backend and frontend development, deployment, and website-related technical improvements.
+
+🌐 [Visit Website](https://mazmunedu.uz) · 💻 [Source Code](https://github.com/MuhammadaminAR/mazmun-web-site)
+
+### 🤖 [CheckSubscribeBot](https://github.com/MuhammadaminAR/CheckSubscribeBot)
+**Telegram Bot Development**
+
+A Telegram bot project focused on checking channel subscriptions and automating access-related workflows.
+
+💻 [Explore Repository](https://github.com/MuhammadaminAR/CheckSubscribeBot)
+
+### ✈️ [TravelAppProject](https://github.com/MuhammadaminAR/TravelAppProject)
+**Java Web Application**
+
+A Java-based travel application demonstrating backend application development and project structuring.
+
+💻 [Explore Repository](https://github.com/MuhammadaminAR/TravelAppProject)
+
+[View all my repositories →](https://github.com/MuhammadaminAR?tab=repositories)
+
+## Areas of Interest
+
+- Backend Software Engineering
+- Digital Economy and E-Commerce
+- Financial and Business Technology
+- Artificial Intelligence and Data-Driven Decision-Making
+- AgriTech and Digital Transformation
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadaminAR&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadaminAR&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building at the intersection of technology, business, and innovation.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MuhammadaminAR">GitHub Profile</a>
+  ·
+  <a href="https://www.linkedin.com/in/muhammadaminar/">LinkedIn</a>
+  ·
+  <a href="https://t.me/muhammadaminbro">Telegram</a>
+</p>
